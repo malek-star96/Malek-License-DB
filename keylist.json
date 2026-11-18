@@ -1,1 +1,7 @@
-{}
+{
+  "TEST-12345": {
+    "valid": true,
+    "expires_at": "2030-12-31T23:59:59Z",
+    "max_devices": 2
+  }
+}
