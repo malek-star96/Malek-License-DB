@@ -13,5 +13,10 @@
     "valid": false,
     "expires_at": null,
     "max_devices": 10
+  },
+  "9QT0-KNGP-JJLV-JQHY": {
+    "valid": true,
+    "expires_at": "2026-11-23T02:24:42.547428Z",
+    "max_devices": 10
   }
 }
