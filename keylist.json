@@ -13,10 +13,5 @@
     "valid": false,
     "expires_at": null,
     "max_devices": 10
-  },
-  "MALEK": {
-    "valid": true,
-    "expires_at": "2026-11-23T02:17:29.106692Z",
-    "max_devices": 2
   }
 }
