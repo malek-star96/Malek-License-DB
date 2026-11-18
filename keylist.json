@@ -3,5 +3,10 @@
     "valid": false,
     "expires_at": null,
     "max_devices": 2
+  },
+  "VAZS-OAYK-5HPY-XMWW": {
+    "valid": true,
+    "expires_at": "2026-11-23T02:02:12.889493Z",
+    "max_devices": 2
   }
 }
