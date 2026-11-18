@@ -5,8 +5,13 @@
     "max_devices": 2
   },
   "VAZS-OAYK-5HPY-XMWW": {
-    "valid": true,
-    "expires_at": "2026-11-23T02:02:12.889493Z",
+    "valid": false,
+    "expires_at": null,
     "max_devices": 2
+  },
+  "MALEK-BHJGLXW3FO7QXIWB": {
+    "valid": true,
+    "expires_at": "2026-11-23T02:06:56.637069+00:00",
+    "max_devices": 10
   }
 }
