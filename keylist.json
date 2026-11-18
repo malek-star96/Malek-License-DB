@@ -1,22 +1,7 @@
 {
-  "TEST-12345": {
-    "valid": false,
-    "expires_at": null,
-    "max_devices": 2
-  },
-  "VAZS-OAYK-5HPY-XMWW": {
-    "valid": false,
-    "expires_at": null,
-    "max_devices": 2
-  },
-  "MALEK-BHJGLXW3FO7QXIWB": {
-    "valid": false,
-    "expires_at": null,
-    "max_devices": 10
-  },
-  "9QT0-KNGP-JJLV-JQHY": {
+  "25PH-5S15-8CCL-SOQS": {
     "valid": true,
-    "expires_at": "2026-11-23T02:24:42.547428Z",
+    "expires_at": "2026-11-28T12:39:37.744810Z",
     "max_devices": 10
   }
 }
